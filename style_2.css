@@ -1,0 +1,65 @@
+.optionA {
+    height: 10%;
+    width: 10%;
+    bottom: 25%;
+    left: 20;
+    position: fixed;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.optionB {
+    height: 10%;
+    width: 10%;
+    bottom: 40%;
+    left: 20;
+    position: fixed;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.optionC {
+    height: 10%;
+    width: 10%;
+    bottom: 55%;
+    left: 20;
+    position: fixed;
+    background-color: aliceblue;
+    padding: 10px;
+}
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+}
+.time {
+    position: fixed;
+    right: 10%;
+    bottom: 10%;
+    background-color: azure;
+        
+}
+.12am {
+    position: fixed;
+    top: 50%;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}
+..usl {
+    position: fixed;
+    top: 50%;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+}
